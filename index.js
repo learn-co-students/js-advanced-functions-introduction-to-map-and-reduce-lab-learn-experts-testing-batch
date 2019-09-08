@@ -1,4 +1,4 @@
-// Your code here
+// Your code here //
 function mapToNegativize(array){
   const newArr = []
   for(let i = 0; i < array.length; i++){
